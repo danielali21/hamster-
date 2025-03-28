@@ -1,0 +1,21 @@
+body{
+    background-color: dimgray;
+    background-image: url(https://img.freepik.com/vector-premium/hermoso-paisaje-campo-casa_116220-122.jpg);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-size: contain;
+    text-align: center;
+
+}
+.perfil{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+img{
+    height: 150px;
+    border-radius: 100px;
+    border: 5px solid white;
+    padding: 15px;
+}
